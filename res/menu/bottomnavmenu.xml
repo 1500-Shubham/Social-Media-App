@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navprofile"
+        android:title="Profile"
+        android:icon="@drawable/ic_nav_profile"/>
+    <item
+        android:id="@+id/navexplore"
+        android:title="Explore"
+        android:icon="@drawable/ic_nav_people"/>
+    <item
+        android:id="@+id/navaddsnap"
+        android:title="AddSnap"
+        android:icon="@drawable/ic_nav_add"/>
+    <item
+        android:id="@+id/navchat"
+        android:title="Chat"
+        android:icon="@drawable/ic_nav_chat"/>
+    <item
+        android:id="@+id/navcall"
+        android:title="Call"
+        android:icon="@drawable/ic_nav_phone"/>
+</menu>
